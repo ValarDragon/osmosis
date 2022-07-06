@@ -20,7 +20,7 @@ Super-Linter](https://img.shields.io/github/workflow/status/osmosis-labs/osmosis
 Osmosis is a fair-launched, customizable automated market maker for
 interchain assets that allows the creation and management of
 non-custodial, self-balancing, interchain token index similar to one of
-Balancer.
+Balancer. 
 
 Inspired by [Balancer](http://balancer.finance/whitepaper) and Sunny
 Aggarwal's '[DAOfying Uniswap Automated Market Maker
